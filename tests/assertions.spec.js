@@ -15,6 +15,7 @@ test ('Assertions in playwright', async ({ page }) => {
     await expect(searchbox).toBeEnabled();
 
     const Male_Radio_Button = await page.locator("#gender-male");
+    
     await Male_Radio_Button.click();
     await expect(Male_Radio_Button).toBeChecked();
 
