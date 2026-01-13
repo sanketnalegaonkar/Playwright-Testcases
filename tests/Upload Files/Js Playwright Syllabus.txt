@@ -1,0 +1,45 @@
+-----------------------   JavaScript and Playwright Syllabus   -----------------------------
+
+1. Variables
+2. Datatypes
+3. Operators
+4. Conditional Statements
+5. Loops
+6. Functions
+7. Array
+8. String
+9.Functions
+10. Classes
+11. Playwright Installation
+12. Screenshot All
+13. Video
+14. Debug
+15. Codegen
+16. Built in Locator
+17. Built in Assertions
+18. TraceViewer
+19. Scrolling Page
+20. Annotations
+21. Tagging
+22. Grouping
+23. Hooks -------- X path
+24. Alerts
+25. Drag and Drop
+26. DB Click
+27. Hover Action
+28. Simple Dropdown
+29. Dynamic Dropdown
+30. Keyboard Actions
+31. MultiSelectable Dropdown
+32. DatePicker
+33. Frames
+34. Single File Upload
+35. Flaky Test Handle
+36. Multiple File Handle
+37. Multiple Tab Handle
+38. Read CSV data
+39. API Testing
+40. Reporting 
+41. Page Object Model
+42. Project Framework Explanation
+43. Common Interview Questions
